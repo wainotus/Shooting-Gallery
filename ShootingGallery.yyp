@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "3324ded0-846c-47a5-8cc6-14b5d0209704",
+            "Value": {
+                "id": "9cb98334-8d39-4514-8090-077edf0ef83b",
+                "resourcePath": "objects\\object_crosshair\\object_crosshair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f215074-3567-49b4-b18c-b817c8c60567",
             "Value": {
                 "id": "84a95936-d1f2-48c5-bdce-ea7ae53100ba",
                 "resourcePath": "views\\3f215074-3567-49b4-b18c-b817c8c60567.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "47cca1f0-3706-4726-b4d1-6dfde7de7d92",
+            "Value": {
+                "id": "39c4a453-182b-41af-9b01-7633ffd59e9b",
+                "resourcePath": "objects\\object_hole\\object_hole.yy",
+                "resourceType": "GMObject"
             }
         },
         {
