@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 079DC724
+/// @DnDArgument : "lives" "8"
+
+__dnd_lives = real(8);
+
 /// @DnDAction : YoYo Games.Timelines.Set_Timeline
 /// @DnDVersion : 1
 /// @DnDHash : 79B5E02C
