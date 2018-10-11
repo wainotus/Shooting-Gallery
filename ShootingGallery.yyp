@@ -223,11 +223,11 @@
             }
         },
         {
-            "Key": "a9a67472-954d-482b-befc-3e179d6cd59b",
+            "Key": "aa2b2104-927b-48af-99ed-269794de245a",
             "Value": {
-                "id": "90777327-4070-4d58-9674-def286d1ad0d",
-                "resourcePath": "objects\\object_score\\object_score.yy",
-                "resourceType": "GMObject"
+                "id": "17e22898-fb22-4243-8564-584b5084fb60",
+                "resourcePath": "fonts\\font_in_game\\font_in_game.yy",
+                "resourceType": "GMFont"
             }
         },
         {
