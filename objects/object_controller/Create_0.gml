@@ -17,6 +17,6 @@ timeline_running = 1;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 2D085F30
+/// @DnDHash : 51D6BA18
 /// @DnDArgument : "var" "score"
 score = 0;

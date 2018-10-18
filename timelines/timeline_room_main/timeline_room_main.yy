@@ -100,11 +100,11 @@
                 "mvc": "1.0",
                 "IsDnD": true,
                 "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-                "enumb": 300,
+                "enumb": 250,
                 "eventtype": 0,
                 "m_owner": "d5c2a67c-7fb7-49fe-ac17-41423e938692"
             },
-            "moment": 300
+            "moment": 250
         },
         {
             "id": "ab6d8fa3-221d-4872-8260-2a6d07234278",
@@ -117,11 +117,11 @@
                 "mvc": "1.0",
                 "IsDnD": true,
                 "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-                "enumb": 375,
+                "enumb": 300,
                 "eventtype": 0,
                 "m_owner": "d5c2a67c-7fb7-49fe-ac17-41423e938692"
             },
-            "moment": 375
+            "moment": 300
         }
     ]
 }
