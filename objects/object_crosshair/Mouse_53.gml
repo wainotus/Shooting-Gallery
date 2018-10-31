@@ -17,3 +17,10 @@ __dnd_lives += real(-1);
 /// @DnDArgument : "objectid" "object_hole"
 /// @DnDSaveInfo : "objectid" "47cca1f0-3706-4726-b4d1-6dfde7de7d92"
 instance_create_layer(mouse_x, mouse_y, "Instances", object_hole);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 4E0C5B9E
+/// @DnDArgument : "soundid" "snd_shot"
+/// @DnDSaveInfo : "soundid" "0426081a-522c-4c25-8cbf-246367eec388"
+audio_play_sound(snd_shot, 0, 0);
